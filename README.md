@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                                                                                💫Hello, I'm Abhay Patidar
 🔭Currently learning the MERN stack with a strong focus on building real-world applications.<br>👯Open to collaboration opportunities in React.js and AWS projects.<br>🤝Connect with me on LinkedIn: Abhay Patidar<br>📨Reach out via email: patidarabhay1996@gmail.com<br>☎ Contact me directly at +91 9784669330<br>
 
 
