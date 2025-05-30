@@ -24,8 +24,10 @@
 <a href="https://instagram.com/shades_of_abhay" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="shades_of_abhay" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/abhay1214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhay1214" height="30" width="40" /></a>
 </p>
+<div style="display: flex; align-items: center;">
+  <h3 style="margin: 0;">Languages and Tools:</h3>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
