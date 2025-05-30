@@ -16,7 +16,7 @@
 
 - ☎ Contact me directly at **+91 9784669330**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Gl5TN1SaSpTRI7IONF4lMJzahBtuY4cf/view?usp=sharing](https://drive.google.com/file/d/1Gl5TN1SaSpTRI7IONF4lMJzahBtuY4cf/view?usp=sharing)
+- 📄 RESUME [https://drive.google.com/file/d/1Gl5TN1SaSpTRI7IONF4lMJzahBtuY4cf/view?usp=sharing](https://drive.google.com/file/d/1Gl5TN1SaSpTRI7IONF4lMJzahBtuY4cf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
