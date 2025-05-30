@@ -2,11 +2,9 @@
 <h3 align="center">A passionate full stack developer from India.</h3>
 
 <img src="banner.png">
-<br><br>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaypatidar3&label=Profile%20views&color=0e75b6&style=flat" alt="abhaypatidar3" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Metro Project**
 
