@@ -45,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
-    <img src="" alt="express" width="70" height="70"/>
+    <img src="express.gif" alt="express" width="70" height="70"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
