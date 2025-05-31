@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhay Patidar</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 
-<img src="banner.png">
+<img src="banner2.png">
 
+
+<img align="right" alt="coding" width="300" height="300" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaypatidar3&label=Profile%20views&color=0e75b6&style=flat" alt="abhaypatidar3" /> </p>
 
