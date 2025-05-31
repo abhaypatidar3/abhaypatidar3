@@ -45,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
-    <img src="https://private-user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg3MDM5NjUsIm5iZiI6MTc0ODcwMzY2NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0NDEtMWE3OTdmNDYtZWZlNC00MWU2LTllNzUtNTMwM2UxYmJjYmZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTMxVDE1MDEwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1OTQ1OTM5ZTU3OTBlMDZlODhkYmZiMjc4MmRkODQ0MjQzOTJmNmZkMzZmOGZlMDU1ZDg1MTk4OWRiYTVmNWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vOSPL42LOUHwjpbLYAC7AufoAOzUJfrFLJQHnRG2-jQ" alt="express" width="70" height="70"/>
+    <img src="" alt="express" width="70" height="70"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
