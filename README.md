@@ -23,6 +23,7 @@
 <a href="https://linkedin.com/in/abhaypatidar-0827cs221010" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="abhaypatidar-0827cs221010" height="80" width="80" /></a>
 <a href="https://instagram.com/shades_of_abhay" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="shades_of_abhay" height="80" width="80" /></a>
 <a href="https://www.leetcode.com/abhay1214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhay1214" height="60" width="60" /></a>
+<a href="https://x.com/AbhayPa92014290" target="blank"><img align="center" src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg3MDM5NjUsIm5iZiI6MTc0ODcwMzY2NSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTMxVDE1MDEwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllNjc0NjhmNTgxYjQ4ZWM1ZWZiZmFjODA4ZTM4NjczNTU3MTc1NGNiYTVhZGI4MGIwODg0NzQ5ZTEwMjJkY2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.i41FiwSMb_KYmpkGVssnQ1mG5U3_mHGBYe9xZbYo-0M" alt="AbhayPa92014290" height="80" width="80" /></a>
 </p>
 <div style="display: flex; align-items: center;">
   <h3 style="margin: 0;">Languages and Tools:</h3>
@@ -42,7 +43,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>
+    <img src="https://private-user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg3MDM5NjUsIm5iZiI6MTc0ODcwMzY2NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0NDEtMWE3OTdmNDYtZWZlNC00MWU2LTllNzUtNTMwM2UxYmJjYmZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTMxVDE1MDEwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1OTQ1OTM5ZTU3OTBlMDZlODhkYmZiMjc4MmRkODQ0MjQzOTJmNmZkMzZmOGZlMDU1ZDg1MTk4OWRiYTVmNWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vOSPL42LOUHwjpbLYAC7AufoAOzUJfrFLJQHnRG2-jQ" alt="express" width="70" height="70"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
