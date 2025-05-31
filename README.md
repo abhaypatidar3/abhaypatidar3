@@ -79,4 +79,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaypatidar3&show_icons=true&locale=en" alt="abhaypatidar3" /></p>
 
+<img align="right" alt="coding" width="200" height="200" src="extra.gif">
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaypatidar3&" alt="abhaypatidar3" /></p>
