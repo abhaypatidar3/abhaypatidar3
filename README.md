@@ -63,7 +63,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
+    <img src="pm.gif" alt="postman" width="60" height="60"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display:inline-block; gap=5px;">
     <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="react" width="60" height="60"/>
