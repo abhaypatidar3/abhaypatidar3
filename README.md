@@ -24,8 +24,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/abhaypatidar-0827cs221010" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="abhaypatidar-0827cs221010" height="80" width="80" /></a>
 <a href="https://instagram.com/shades_of_abhay" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="shades_of_abhay" height="80" width="80" /></a>
-<a href="https://www.leetcode.com/abhay1214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhay1214" height="60" width="60" /></a>
 <a href="https://x.com/AbhayPa92014290" target="blank"><img align="center" src="twitter.gif" alt="AbhayPa92014290" height="80" width="80" /></a>
+<a href="https://www.leetcode.com/abhay1214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhay1214" height="60" width="60" /></a>
 </p>
 <div style="display: flex; align-items: center;">
   <h3 style="margin: 0;">Languages and Tools:</h3>
