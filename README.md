@@ -73,8 +73,6 @@
   </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaypatidar3" alt="abhaypatidar3" /></a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaypatidar3&show_icons=true&locale=en&layout=compact" alt="abhaypatidar3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaypatidar3&show_icons=true&locale=en" alt="abhaypatidar3" /></p>
